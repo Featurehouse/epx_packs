@@ -1,3 +1,9 @@
+# Deprecation warning
+
+We are moving to [Featurehouse/packs.epx.featurehouse.org](https://github.com/Featurehouse/packs.epx.featurehouse.org). This repository will be archived & deprecated.
+
+---
+
 This is a repository for [End Poem Extension](https://modrinth.com/mod/end-poem-extension) Recommended Pack.
 
 API: `https://featurehouse.github.io/epx_packs/v2/dl`
